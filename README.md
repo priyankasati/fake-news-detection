@@ -70,6 +70,12 @@ Each file contains:
 
 1. Clone this repository or download the project folder.
 2. Make sure you have Python 3 installed.
-3. Install required packages:
+3. Install required packages:pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+joblib
+jupyter
    ```bash
    pip install -r requirements.txt
